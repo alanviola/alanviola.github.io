@@ -1,0 +1,3 @@
+[submodule "alanviola/themes/ananke"]
+	path = alanviola/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
