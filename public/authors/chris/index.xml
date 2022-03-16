@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Hayner | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/chris/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/chris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Hayner</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/chris/avatar_hu3ebc71fa04a1f24db632b25cb2fc9941_1960229_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chris Hayner</title>
+      <link>https://uw-cryo.github.io/authors/chris/</link>
+    </image>
+    
+  </channel>
+</rss>

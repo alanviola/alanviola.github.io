@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seth Vanderwilt | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/seth/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/seth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seth Vanderwilt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/seth/avatar_hu009aea0604e9dca6f434de1be19f4f67_3838467_270x270_fill_lanczos_center_3.png</url>
+      <title>Seth Vanderwilt</title>
+      <link>https://uw-cryo.github.io/authors/seth/</link>
+    </image>
+    
+  </channel>
+</rss>

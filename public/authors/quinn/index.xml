@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quinn Brencher | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/quinn/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/quinn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quinn Brencher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/quinn/avatar_hu6996ec3deb2c9d8c52555c6fcbfdbf01_618552_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Quinn Brencher</title>
+      <link>https://uw-cryo.github.io/authors/quinn/</link>
+    </image>
+    
+  </channel>
+</rss>

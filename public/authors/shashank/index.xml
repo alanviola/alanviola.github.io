@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shashank Bhushan | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/shashank/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/shashank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shashank Bhushan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/shashank/avatar_hu33d8f2710ea4928d295bd08cdc05f6eb_679142_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shashank Bhushan</title>
+      <link>https://uw-cryo.github.io/authors/shashank/</link>
+    </image>
+    
+  </channel>
+</rss>

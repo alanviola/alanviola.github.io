@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yara Mohajerani | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/yara/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/yara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yara Mohajerani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/yara/avatar_hu302e1873caa1ae34f8d89cd06b315671_185233_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yara Mohajerani</title>
+      <link>https://uw-cryo.github.io/authors/yara/</link>
+    </image>
+    
+  </channel>
+</rss>

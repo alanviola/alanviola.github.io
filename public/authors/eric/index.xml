@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Gagliano | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/eric/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/eric/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Gagliano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/eric/avatar_hu6b4721987e1f20d606e11e052efc45aa_350428_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Eric Gagliano</title>
+      <link>https://uw-cryo.github.io/authors/eric/</link>
+    </image>
+    
+  </channel>
+</rss>

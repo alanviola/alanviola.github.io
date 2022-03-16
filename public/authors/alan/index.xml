@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alan Viola | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/alan/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/alan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alan Viola</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/alan/avatar_hu2fc5e7c2172ed565367bc7607e46e447_1708231_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alan Viola</title>
+      <link>https://uw-cryo.github.io/authors/alan/</link>
+    </image>
+    
+  </channel>
+</rss>

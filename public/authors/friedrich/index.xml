@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friedrich Knuth | UW TACO Lab</title>
+    <link>https://uw-cryo.github.io/authors/friedrich/</link>
+      <atom:link href="https://uw-cryo.github.io/authors/friedrich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Friedrich Knuth</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://uw-cryo.github.io/authors/friedrich/avatar_hu5eefcd357d44e1910a828a3ff6ecb76d_302656_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Friedrich Knuth</title>
+      <link>https://uw-cryo.github.io/authors/friedrich/</link>
+    </image>
+    
+  </channel>
+</rss>
