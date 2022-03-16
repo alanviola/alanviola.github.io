@@ -75,4 +75,4 @@ user_groups:
 #- Lab
 -
 ---
-Alan Viola is currently working on a double Bachelors in civil engineering and philosophy. He's in charge of updating the TACO Lab website, so please email him if something isn't working! Alan's academic interests include structural engineering, justice equity diversity and inclusion (JEDI) in engineering, and spending way too long implementing his homework in Python. Outside of class, you'll find him baking sourdough bread, playing piano, and walking his dog, Valentine.
+Alan Viola is currently working on a double Bachelors in civil engineering and philosophy. He's in charge of updating the TACO Lab website, so please email him if something isn't working. Alan's academic interests include structures, justice equity diversity and inclusion (JEDI) in engineering, and spending way too long implementing his homework in Python. Outside of class, you'll find him baking sourdough bread, playing piano, and walking his dog, Valentine.
